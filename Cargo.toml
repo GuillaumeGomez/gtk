@@ -33,7 +33,7 @@ v3_10 = ["v3_8", "gtk-sys/v3_10", "gdk/v3_10"]
 v3_14 = ["v3_12", "gtk-sys/v3_14", "gdk/v3_14"]
 
 [build-dependencies.gtk-rs-lgpl-docs]
-version = "0.1.3"
+version = "0.1.4"
 optional = true
 git = "https://github.com/gtk-rs/lgpl-docs"
 
